@@ -1,11 +1,14 @@
 # 📧 Email Spam Detection Using Machine Learning
 
 A Flask-based machine learning project that detects spam emails using NLP preprocessing, TF-IDF vectorization, and Random Forest classification.
-<img width="1150" height="631" alt="Screenshot 2025-11-06 220158" src="https://github.com/user-attachments/assets/7fdfee64-273d-403e-a05d-734dab6d8659" />
 
-<img width="1142" height="633" alt="Screenshot 2025-11-06 220255" src="https://github.com/user-attachments/assets/bbe495c5-8bb5-4280-b168-49dc9ddc4291" />
+<img width="1144" height="636" alt="Screenshot 2025-11-08 235842" src="https://github.com/user-attachments/assets/fc862deb-450a-4bbb-a761-4de76fecb793" />
 
-<img width="1132" height="633" alt="Screenshot 2025-11-06 220337" src="https://github.com/user-attachments/assets/9f3041a6-74d8-4c19-ba9b-e981c980da99" />
+
+<img width="1134" height="632" alt="Screenshot 2025-11-08 235956" src="https://github.com/user-attachments/assets/c2dea9c0-6ead-4ed4-aa47-0bac4e6cbe3c" />
+
+
+<img width="1138" height="622" alt="Screenshot 2025-11-09 000041" src="https://github.com/user-attachments/assets/7b75bcbe-f918-420d-9a19-ea77078b9b01" />
 
 
 ## 🚀 Features
